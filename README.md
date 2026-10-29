@@ -61,8 +61,8 @@ I am a versatile software engineer with a strong foundation in both frontend and
 <br/>
 
 <p align="center">
-  <a href="https://github.com/bagusstwan">
-    <img src="./assets/assets/contribution-city.svg" alt="Contribution City bagusstwan" width="100%" />
+  <a href="https://bagusstwan.github.io/bagusstwan/">
+    <img src="./assets/contribution-city.svg" alt="Contribution City bagusstwan" width="100%" />
   </a>
 </p>
 
