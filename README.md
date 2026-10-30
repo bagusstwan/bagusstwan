@@ -1,39 +1,16 @@
 <div align="center">
 
-<!-- Typing animation header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=6EE7B7&center=true&vCenter=true&width=600&lines=Bagus+Setiawan;Full+Stack+Software+Engineer;Backend+%2B+Frontend+%7C+MERN+%26+TALL+Stack" alt="Typing SVG" />
-
-### Bridging the gap between robust backend architectures and interactive frontend interfaces
-*Passionate about clean code, scalability, and pixel-perfect design.*
-
-<br/>
-
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bagussetiawan.lz24@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bagussetiawann)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bagusstwan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bagusstwn.vercel.app)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+  <img src="./assets/hero-light.svg" alt="Hi there! I’m Bagus Setiawan — Bridging the gap between robust backend architectures and interactive frontend interfaces" width="100%" />
+</picture>
 
 </div>
 
 <br/>
 
+<div align="center">
 
-## About Me
-
-I am a versatile software engineer with a strong foundation in both frontend and backend development. My expertise lies in building modern, responsive web applications that are not only visually appealing but also performant and secure.
-
-- **Current focus:** developing enterprise-grade applications using the TALL stack and MERN stack principles.
-- **Core competency:** deep understanding of React.js and Next.js for dynamic UIs, and Laravel for API-driven backends.
-- **Design philosophy:** leveraging Tailwind CSS to ensure precise design implementation and responsive user experiences.
-- **Goal:** always eager to adopt the latest web technologies and best practices for performance optimization.
-
-<br/>
-
-## Tech Stack & Tools
-
-<div align="left">
-
-<br/>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -72,6 +49,12 @@ I am a versatile software engineer with a strong foundation in both frontend and
 
 ### Open to collaboration and interesting projects — feel free to reach out.
 
-<img src="https://komarev.com/ghpvc/?username=bagusstwan&style=flat-square&color=6EE7B7" alt="Profile views" />
+<p align="center">
+  <a href="mailto:bagussetiawan.lz24@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" align="absmiddle" /></a>
+  <a href="https://linkedin.com/in/bagussetiawann"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" align="absmiddle" /></a>
+  <a href="https://github.com/bagusstwan"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" align="absmiddle" /></a>
+  <a href="https://bagusstwn.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" align="absmiddle" /></a>
+  <img src="https://komarev.com/ghpvc/?username=bagusstwan&style=for-the-badge&color=6EE7B7" alt="Profile views" align="absmiddle" />
+</p>
 
 </div>
